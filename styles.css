@@ -208,14 +208,6 @@ a.social:hover {
 }
 
 /*Portfolio Page*/
-.main-nav2 {
-    width: 100%;
-    background: black;
-    min-height: 30px;
-    padding: 0px;
-    position: fixed;
-}
-
 section {
     background: white;
 }
@@ -237,13 +229,6 @@ h3 {
     border-left: 5px solid white;
     border-right: 5px solid white;
     background: rgba(0, 0, 0, 0.75);
-}
-
-.footer-2 {
-    color: black;
-    text-align: end;
-    font-weight: 700;
-    font-size: 14px;
 }
 
 
